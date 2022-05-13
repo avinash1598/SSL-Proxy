@@ -1,2 +1,2 @@
 # SSL-Proxy
-SSL-Proxy implementation in python using sockets.
+SSL-Proxy for Windows implemented in python using sockets.
